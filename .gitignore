@@ -1,0 +1,9 @@
+# 忽略 Obsidian 自动生成的缓存和工作区状态
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/
+.obsidian/cache/
+
+# 忽略操作系统临时文件
+.DS_Store
+Thumbs.db
