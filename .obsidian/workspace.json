@@ -49,14 +49,12 @@
             "id": "421e17dad9ecb7be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Blind-nav/benchmark.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20261023121534.png"
               },
-              "icon": "lucide-file",
-              "title": "benchmark"
+              "icon": "lucide-image",
+              "title": "Pasted image 20261023121534"
             }
           }
         ],
@@ -236,23 +234,28 @@
   },
   "active": "11f618a8ef3e9fe1",
   "lastOpenFiles": [
-    "新建文本文档.txt",
+    "欢迎.md",
+    "Pasted image 20261023121534.png",
     "Pasted image 20261029150603.png",
-    "DCRS：A Semantic–Spatial Collaborative-Driven UAV View Geolocalization Method/DCRS：A Semantic–Spatial Collaborative-Driven UAV View Geolocalization Method.md",
+    "WORLD SLAM MODEL/Pasted image 20261028153032.png",
+    "WORLD SLAM MODEL/Pasted image 20261028152820.png",
+    "WORLD SLAM MODEL/Pasted image 20261028152624.png",
+    "WORLD SLAM MODEL/Pasted image 20261028152537.png",
+    "WORLD SLAM MODEL/Pasted image 20261025152256.png",
+    "WORLD SLAM MODEL/Pasted image 20261025152748.png",
+    "WORLD SLAM MODEL/Pasted image 20261028123023.png",
+    "WORLD SLAM MODEL/Pasted image 20261028143930.png",
+    "Break mind.md",
+    "WORLD SLAM MODEL/JOINT WORLD MODELING FOR SLAM AND NAVIGATION.md",
     "Blind-nav/benchmark.md",
+    "WORLD SLAM MODEL",
+    "ChairNav/Cross-Embodiment Pre-training and Personalization for Long-Horizon Wheelchair Navigation.md",
+    "ChairNav",
+    "新建文本文档.txt",
+    "DCRS：A Semantic–Spatial Collaborative-Driven UAV View Geolocalization Method/DCRS：A Semantic–Spatial Collaborative-Driven UAV View Geolocalization Method.md",
     "Blind-nav",
-    "DCRS：A Semantic–Spatial Collaborative-Driven UAV View Geolocalization Method/2c211ba017752b62a9e81d605c70c959.jpg",
-    "DCRS：A Semantic–Spatial Collaborative-Driven UAV View Geolocalization Method/ad6076f48418ec350aecd562db26a9b1.jpg",
     "DCRS：A Semantic–Spatial Collaborative-Driven UAV View Geolocalization Method",
-    "DCRS：A Semantic–Spatial Collaborative-Driven UAV View Geolocalization Method/Pasted image 20260924162728.png",
-    "DCRS：A Semantic–Spatial Collaborative-Driven UAV View Geolocalization Method/Pasted image 20260924162700.png",
-    "DCRS：A Semantic–Spatial Collaborative-Driven UAV View Geolocalization Method/Pasted image 20260924162624.png",
-    "DCRS：A Semantic–Spatial Collaborative-Driven UAV View Geolocalization Method/Pasted image 20260924162551.png",
-    "DCRS：A Semantic–Spatial Collaborative-Driven UAV View Geolocalization Method/Pasted image 20260924162443.png",
-    "DCRS：A Semantic–Spatial Collaborative-Driven UAV View Geolocalization Method/Pasted image 20260924160419.png",
-    "DCRS：A Semantic–Spatial Collaborative-Driven UAV View Geolocalization Method/Pasted image 20260924154049.png",
     "R2-Dreamer：REDUNDANCY-REDUCED WORLD MODELS WITHOUT DECODERS OR AUGMENTATION.md",
-    "未命名.base",
-    "欢迎.md"
+    "未命名.base"
   ]
 }
