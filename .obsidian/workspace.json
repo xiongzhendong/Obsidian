@@ -11,15 +11,82 @@
             "id": "421e17dad9ecb7be",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pre-Act Nav/AGENTIC REASONING BEFORE ACTION FOR URBAN NAVIGATION.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AGENTIC REASONING BEFORE ACTION FOR URBAN NAVIGATION"
+            }
+          },
+          {
+            "id": "7b1654583dc500ea",
+            "type": "leaf",
+            "state": {
               "type": "image",
               "state": {
-                "file": "Blind-nav/Pasted image 20261029150603.png"
+                "file": "Pre-Act Nav/Pasted image 20261031173428.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20261029150603"
+              "title": "Pasted image 20261031173428"
+            }
+          },
+          {
+            "id": "437d70379711fb3b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pre-Act Nav/Pasted image 20261031173450.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20261031173450"
+            }
+          },
+          {
+            "id": "7f4793184cc14241",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pre-Act Nav/Pasted image 20261031173605.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20261031173605"
+            }
+          },
+          {
+            "id": "5a5173c37f650c72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pre-Act Nav/AGENTIC REASONING BEFORE ACTION FOR URBAN NAVIGATION.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AGENTIC REASONING BEFORE ACTION FOR URBAN NAVIGATION"
+            }
+          },
+          {
+            "id": "ec18551870cc5eda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WORLD SLAM MODEL/JOINT WORLD MODELING FOR SLAM AND NAVIGATION.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JOINT WORLD MODELING FOR SLAM AND NAVIGATION"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -193,25 +260,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "00d82a8fbce63bf2",
+  "active": "5a5173c37f650c72",
   "lastOpenFiles": [
-    "Blind-nav/benchmark.md",
-    "Blind-nav/Pasted image 20261029150603.png",
+    "Pre-Act Nav/Pasted image 20261031173428.png",
+    "Pre-Act Nav/Pasted image 20261031173605.png",
+    "Pre-Act Nav/Pasted image 20261031173450.png",
+    "Pre-Act Nav/AGENTIC REASONING BEFORE ACTION FOR URBAN NAVIGATION.md",
+    "WORLD SLAM MODEL/JOINT WORLD MODELING FOR SLAM AND NAVIGATION.md",
+    "Pre-Act Nav/Pasted image 20261030223153.png",
+    "Pre-Act Nav/Pasted image 20261030215058.png",
     "Break mind.md",
+    "DCRS：A Semantic–Spatial Collaborative-Driven UAV View Geolocalization Method/2c211ba017752b62a9e81d605c70c959.jpg",
+    "Blind-nav/Pasted image 20261029150603.png",
+    "Pre-Act Nav",
+    "Blind-nav/benchmark.md",
     "R2-Dreamer：REDUNDANCY-REDUCED WORLD MODELS WITHOUT DECODERS OR AUGMENTATION.md",
     "ChairNav/Pasted image 20261023121534.png",
     "ChairNav/Cross-Embodiment Pre-training and Personalization for Long-Horizon Wheelchair Navigation.md",
-    "WORLD SLAM MODEL/JOINT WORLD MODELING FOR SLAM AND NAVIGATION.md",
-    "DCRS：A Semantic–Spatial Collaborative-Driven UAV View Geolocalization Method/2c211ba017752b62a9e81d605c70c959.jpg",
     "DCRS：A Semantic–Spatial Collaborative-Driven UAV View Geolocalization Method/ad6076f48418ec350aecd562db26a9b1.jpg",
     "DCRS：A Semantic–Spatial Collaborative-Driven UAV View Geolocalization Method/DCRS：A Semantic–Spatial Collaborative-Driven UAV View Geolocalization Method.md",
     "WORLD SLAM MODEL/Pasted image 20261025152256.png",
-    "WORLD SLAM MODEL/Pasted image 20261025152748.png",
-    "WORLD SLAM MODEL/Pasted image 20261028143930.png",
-    "WORLD SLAM MODEL/Pasted image 20261028123023.png",
     "欢迎.md",
-    "WORLD SLAM MODEL/Pasted image 20261028153032.png",
-    "WORLD SLAM MODEL/Pasted image 20261028152820.png",
     "WORLD SLAM MODEL",
     "ChairNav",
     "新建文本文档.txt",
